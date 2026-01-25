@@ -262,7 +262,7 @@ SectorParser::parse_old_format(const ReaderMapping& reader)
   m_sector.add<SpawnPointMarker>(DEFAULT_SPAWNPOINT_NAME, startpos);
 
   auto& music = m_sector.add<MusicObject>();
-  music.set_music("/music/antarctic/midday.music");
+  music.set_music("/music/antarctic/chipdisko.music");
 
   int width = 30, height = 15;
   reader.get("width", width);
@@ -406,7 +406,7 @@ SectorParser::create_sector()
 
     m_sector.add<SpawnPointMarker>(DEFAULT_SPAWNPOINT_NAME, Vector(64, 480));
 
-    music.set_music("/music/antarctic/midday.music");
+    music.set_music("/music/antarctic/chipdisko.music");
   }
 
   m_sector.add<Camera>("Camera");

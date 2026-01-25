@@ -11,7 +11,7 @@
     (icon "images/creatures/snowball/smart/smartball-1.png"))
   (object
     (class "captainsnowball")
-    (icon "images/creatures/snowball/captain/captain_left-1.png"))
+    (icon "images/creatures/snowball/captain/captain-left-1.png"))
   (object
     (class "bouncingsnowball")
     (icon "images/creatures/bouncing_snowball/bs4.png"))
@@ -20,7 +20,7 @@
     (icon "images/creatures/flying_snowball/fs1.png"))
   (object
     (class "kamikazesnowball")
-    (icon "images/creatures/snowball/kamikaze/kamikaze-editor.png"))
+    (icon "images/creatures/snowball/kamikaze/kamikaze-snowball-editor.png"))
   (object
     (class "snowman")
     (icon "images/creatures/snowman/smwalk5.png"))
@@ -38,7 +38,7 @@
     (icon "images/creatures/iceblock/iceblock-1.png"))
   (object
     (class "smartblock")
-    (icon "images/creatures/iceblock/smart_block/smartblock-1.png"))
+    (icon "images/creatures/iceblock/smart/smartblock-1.png"))
   (object
     (class "crystallo")
     (icon "images/creatures/crystallo/crystallo-left-2.png"))
